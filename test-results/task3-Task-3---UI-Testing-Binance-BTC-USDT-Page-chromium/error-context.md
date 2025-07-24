@@ -1,0 +1,401 @@
+# Page snapshot
+
+```yaml
+- banner:
+  - link:
+    - /url: https://www.binance.com/en
+    - img
+  - link "Buy Crypto":
+    - /url: https://www.binance.com/en/crypto/buy
+  - link "Markets":
+    - /url: https://www.binance.com/en/markets/overview
+  - text: Trade
+  - img
+  - link "Futures":
+    - /url: https://www.binance.com/en/futures/home
+    - text: Futures
+    - img
+  - link "Earn":
+    - /url: https://www.binance.com/en/earn
+    - text: Earn
+    - img
+  - link "Square":
+    - /url: https://www.binance.com/en/square
+    - text: Square
+    - img
+  - text: More
+  - img
+  - img
+  - link "Log In":
+    - /url: https://accounts.binance.com/en/login?loginChannel=&return_to=aHR0cHM6Ly93d3cuYmluYW5jZS5jb20vZW4vdHJhZGUvQlRDX1VTRFQ%3D
+    - button "Log In"
+  - link "Sign Up":
+    - /url: https://accounts.binance.com/en/register?registerChannel=&return_to=aHR0cHM6Ly93d3cuYmluYW5jZS5jb20vZW4vdHJhZGUvQlRDX1VTRFQ%3D
+  - img
+  - img
+  - img
+  - img
+  - img
+- link "Join the Discord AMA to Celebrate Binance 8YA & Win Rewards (07-24)":
+  - /url: /en/support/announcement/39b686cebe054b07a4c36c86d242de80
+- link "Binance Now Supports Tokenized RWAs as Off-Exchange Collateral (07-24)":
+  - /url: /en/support/announcement/4107094f14024afbbf5145591b66a07b
+- 'link "Binance Futures Launches New Listings Fee Promotion: Enjoy 0 Maker Fee and Enhanced Maker Rebates (07-24)"':
+  - /url: /en/support/announcement/06f67008a3ea4caebecc0cb266c26401
+- img
+- img
+- text: Order Book
+- img
+- img
+- img
+- img
+- text: "0.01"
+- img
+- text: Price (USDT) Amount (BTC) Total 119,058.51 0.02893 3.44K 119,058.50 0.00010 11.90585 119,058.45 0.00025 29.76461 119,057.30 0.00005 5.95287 119,057.07 0.12352 14.71K 119,057.06 0.00010 11.90571 119,055.40 0.00005 5.95277 119,055.00 0.00005 5.95275 119,054.78 0.04194 4.99K 119,054.77 0.00010 11.90548 119,054.69 0.00050 59.52735 119,054.21 0.00005 5.95271 119,053.98 0.01474 1.75K 119,053.92 0.00005 5.95270 119,052.43 0.01750 2.08K 119,052.42 0.00010 11.90524 119,052.30 1.95832 233.14K 119,052.30
+- img
+- text: $119,052.30
+- link "orderbook info":
+  - /url: /orderbook/BTC_USDT
+  - img
+- text: 119,052.29 6.82874 812.98K 119,052.22 0.01474 1.75K 119,051.90 0.00010 11.90519 119,051.89 0.27729 33.01K 119,050.65 0.00009 10.71456 119,050.27 0.00005 5.95251 119,050.24 0.00010 11.90502 119,050.23 0.37065 44.13K 119,050.05 0.00010 11.90501 119,050.04 0.08409 10.01K 119,050.00 0.02420 2.88K 119,049.90 0.00054 64.28695 119,049.71 0.05199 6.19K 119,049.05 0.00015 17.85736 119,049.04 0.00025 29.76226 119,049.03 0.10020 11.93K 119,049.02 0.00109 129.76343 B 76.58% 23.42% S
+- tablist:
+  - tab "Chart" [selected]
+  - tab "Info"
+  - tab "Trading Data"
+  - tab "Square"
+- img
+- img
+- text: Time 1s 15m 1H 4H 1D 1W
+- img
+- img
+- img
+- combobox "Select an option":
+  - img
+- img
+- img
+- img
+- text: Original Trading View Depth
+- img
+- text: "2025/07/24 Open: 118,756.00 High: 119,450.00 Low: 117,103.10 Close: 119,052.30 CHANGE: 0.25% AMPLITUDE: 1.98%"
+- img
+- text: "MA(7): 118,310.43 MA(25): 114,347.71 MA(99): 105,175.52"
+- img
+- text: "Vol(BTC): 13.837K Vol(USDT) 1.639B 15.141K 17.28K"
+- img
+- img
+- img
+- img
+- img
+- img
+- img
+- img
+- img
+- img
+- img
+- img
+- img
+- img
+- img
+- img
+- img
+- img
+- img "img"
+- heading "BTC/USDT" [level=1]
+- link "Bitcoin Price":
+  - /url: /en/price/bitcoin
+  - text: Bitcoin Price
+  - img
+- text: 119,052.30 $119,052.30 24h Chg 764.55 +0.65% 24h High 119,450.00 24h Low 117,103.10 24h Volume(BTC) 16,931.90 24h Volume(USDT) 2,005,348,992.08 Token Tags POW Payments Vol Hot Price Protection
+- img
+- tablist:
+  - tab "Spot" [selected]
+  - tab "Cross"
+  - tab "Isolated"
+  - tab "Grid"
+- tabpanel "Chart"
+- text: Limit Market Stop Limit
+- img
+- img
+- text: Price
+- textbox "Price": 119,049.03
+- text: USDT
+- button "increase value":
+  - img
+- button "decrease value":
+  - img
+- text: Amount
+- textbox "Amount"
+- text: BTC
+- button "increase value":
+  - img
+- button "decrease value":
+  - img
+- slider "slider": "0"
+- checkbox "TP/SL":
+  - img
+  - text: TP/SL
+- text: Avbl - USDT Max Buy -- BTC
+- link "Log In":
+  - /url: https://accounts.binance.com/login?return_to=aHR0cHM6Ly93d3cuYmluYW5jZS5jb20vZW4vdHJhZGUvQlRDX1VTRFQ_dHlwZT1zcG90
+  - button "Log In"
+- text: Price
+- textbox "Price": 119,049.03
+- text: USDT
+- button "increase value":
+  - img
+- button "decrease value":
+  - img
+- text: Amount
+- textbox "Amount"
+- text: BTC
+- button "increase value":
+  - img
+- button "decrease value":
+  - img
+- slider "slider": "0"
+- checkbox "TP/SL":
+  - img
+  - text: TP/SL
+- text: Avbl - BTC Max Sell -- USDT
+- link "Log In":
+  - /url: https://accounts.binance.com/login?return_to=aHR0cHM6Ly93d3cuYmluYW5jZS5jb20vZW4vdHJhZGUvQlRDX1VTRFQ_dHlwZT1zcG90
+  - button "Log In"
+- tablist:
+  - tab "Market Trades" [selected]
+  - tab "My Trades"
+- tabpanel "Chart": Price (USDT) Amount (BTC) Time 119,052.30 0.00034 02:42:20 119,052.30 0.00034 02:42:20 119,052.30 0.00008 02:42:19 119,052.30 0.00007 02:42:19 119,052.30 0.00006 02:42:19 119,052.30 0.00015 02:42:19 119,052.30 0.00027 02:42:19 119,052.29 0.00027 02:42:18 119,052.29 0.00065 02:42:17 119,052.30 0.00027 02:42:16 119,052.30 0.00011 02:42:16 119,052.29 0.03300 02:42:16 119,052.29 0.00027 02:42:15 119,052.29 0.00065 02:42:15 119,052.29 0.00184 02:42:14
+- img
+- img
+- textbox "Search"
+- tablist:
+  - tab:
+    - img
+  - tab "New"
+  - tab "USDC"
+  - tab "USDT" [selected]
+  - tab "FDUSD"
+  - tab "BNB"
+  - tab "BTC"
+  - tab "ALTS"
+  - tab "FIAT"
+  - tab "Zones"
+  - tab "Margin"
+  - tab "Grid"
+- button "Scroll tabs left"
+- button "Scroll tabs right"
+- text: Pair
+- img
+- text: Last Price
+- img
+- text: / 24h Chg
+- img
+- img
+- link "1000CAT /USDT 5x 0.00797 -6.24%":
+  - /url: /en/trade/1000CAT_USDT
+  - img
+  - text: 1000CAT /USDT 5x 0.00797 -6.24%
+- link "1000CHEEMS /USDT 5x 0.001313 -0.76%":
+  - /url: /en/trade/1000CHEEMS_USDT
+  - img
+  - text: 1000CHEEMS /USDT 5x 0.001313 -0.76%
+- link "1000SATS /USDT 5x 0.00004411 -3.25%":
+  - /url: /en/trade/1000SATS_USDT
+  - img
+  - text: 1000SATS /USDT 5x 0.00004411 -3.25%
+- link "1INCH /USDT 5x 0.2784 -3.53%":
+  - /url: /en/trade/1INCH_USDT
+  - img
+  - text: 1INCH /USDT 5x 0.2784 -3.53%
+- link "1MBABYDOGE /USDT 5x 0.0013555 -4.46%":
+  - /url: /en/trade/1MBABYDOGE_USDT
+  - img
+  - text: 1MBABYDOGE /USDT 5x 0.0013555 -4.46%
+- link "AAVE /USDT 5x 292.32 +0.47%":
+  - /url: /en/trade/AAVE_USDT
+  - img
+  - text: AAVE /USDT 5x 292.32 +0.47%
+- link "ACA /USDT 5x 0.0294 -1.67%":
+  - /url: /en/trade/ACA_USDT
+  - img
+  - text: ACA /USDT 5x 0.0294 -1.67%
+- link "ACE /USDT 5x 0.572 -2.39%":
+  - /url: /en/trade/ACE_USDT
+  - img
+  - text: ACE /USDT 5x 0.572 -2.39%
+- link "ACH /USDT 5x 0.02224 -5.68%":
+  - /url: /en/trade/ACH_USDT
+  - img
+  - text: ACH /USDT 5x 0.02224 -5.68%
+- link "ACM /USDT 5x 0.812 -1.34%":
+  - /url: /en/trade/ACM_USDT
+  - img
+  - text: ACM /USDT 5x 0.812 -1.34%
+- link "ACT /USDT 5x 0.0454 -5.42%":
+  - /url: /en/trade/ACT_USDT
+  - img
+  - text: ACT /USDT 5x 0.0454 -5.42%
+- link "ACX /USDT 5x 0.1848 +2.84%":
+  - /url: /en/trade/ACX_USDT
+  - img
+  - text: ACX /USDT 5x 0.1848 +2.84%
+- link "ADA /USDT 10x 0.8206 +0.38%":
+  - /url: /en/trade/ADA_USDT
+  - img
+  - text: ADA /USDT 10x 0.8206 +0.38%
+- link "ADX /USDT 5x 0.1104 +8.55%":
+  - /url: /en/trade/ADX_USDT
+  - img
+  - text: ADX /USDT 5x 0.1104 +8.55%
+- text: Top Movers
+- link "FAQ":
+  - /url: /support/faq/18c97e8ab67a4e1b824edd590cae9f16
+- img
+- text: All Change New High/Low Fluctuation Volume
+- img
+- link "ARDR/BTC 02:00:19 +6.97% Rally":
+  - /url: /en/trade/ARDR_BTC
+  - text: ARDR/BTC 02:00:19 +6.97% Rally
+  - img
+- link "ANKR/USDT 02:00:19 +5.54% Rally":
+  - /url: /en/trade/ANKR_USDT
+  - text: ANKR/USDT 02:00:19 +5.54% Rally
+  - img
+- link "ATA/USDT 02:00:19 +7.42% Rally":
+  - /url: /en/trade/ATA_USDT
+  - text: ATA/USDT 02:00:19 +7.42% Rally
+  - img
+- link "AUCTION/BTC 02:00:19 +6.16% Rally":
+  - /url: /en/trade/AUCTION_BTC
+  - text: AUCTION/BTC 02:00:19 +6.16% Rally
+  - img
+- link "AXS/USDT 02:00:19 +7.18% Rally":
+  - /url: /en/trade/AXS_USDT
+  - text: AXS/USDT 02:00:19 +7.18% Rally
+  - img
+- link "BAT/USDT 02:00:19 +7.16% Rally":
+  - /url: /en/trade/BAT_USDT
+  - text: BAT/USDT 02:00:19 +7.16% Rally
+  - img
+- link "CHR/USDT 02:00:19 +7.69% Rally":
+  - /url: /en/trade/CHR_USDT
+  - text: CHR/USDT 02:00:19 +7.69% Rally
+  - img
+- link "CELO/USDT 02:00:19 +7.90% Rally":
+  - /url: /en/trade/CELO_USDT
+  - text: CELO/USDT 02:00:19 +7.90% Rally
+  - img
+- link "COMP/USDT 02:00:19 +6.75% Rally":
+  - /url: /en/trade/COMP_USDT
+  - text: COMP/USDT 02:00:19 +6.75% Rally
+  - img
+- link "CRV/BTC 02:00:19 -5.20% Pullback":
+  - /url: /en/trade/CRV_BTC
+  - text: CRV/BTC 02:00:19 -5.20% Pullback
+  - img
+- img
+- text: Stable connection
+- img
+- link "ETH/USDT +3.65% 3,736.84":
+  - /url: /trade/ETH_USDT
+- link "SOL/USDT -0.64% 188.80":
+  - /url: /trade/SOL_USDT
+- link "XRP/USDT -0.25% 3.2371":
+  - /url: /trade/XRP_USDT
+- link "PEPE/USDT -0.85% 0.00001277":
+  - /url: /trade/PEPE_USDT
+- link "DOGE/USDT -1.66% 0.23979":
+  - /url: /trade/DOGE_USDT
+- link "BTC/USDT +0.65% 119,052.29":
+  - /url: /trade/BTC_USDT
+- link "KERNEL/USDT +10.60% 0.1930":
+  - /url: /trade/KERNEL_USDT
+- link "BNB/USDT +0.95% 781.31":
+  - /url: /trade/BNB_USDT
+- link "BONK/USDT +3.68% 0.00003382":
+  - /url: /trade/BONK_USDT
+- link "ADA/USDT +0.38% 0.8206":
+  - /url: /trade/ADA_USDT
+- link "NEWT/USDT +18.38% 0.5089":
+  - /url: /trade/NEWT_USDT
+- link "SPK/USDT -32.59% 0.112985":
+  - /url: /trade/SPK_USDT
+- link "SUI/USDT +3.14% 3.8377":
+  - /url: /trade/SUI_USDT
+- link "LTC/USDT -0.11% 113.29":
+  - /url: /trade/LTC_USDT
+- link "LINK/USDT +1.93% 18.47":
+  - /url: /trade/LINK_USDT
+- link "PENGU/USDT -2.87% 0.039730":
+  - /url: /trade/PENGU_USDT
+- link "AXL/USDT +13.99% 0.4195":
+  - /url: /trade/AXL_USDT
+- link "STO/FDUSD +10.32% 0.1122":
+  - /url: /trade/STO_FDUSD
+- link "AGLD/USDT -2.35% 0.788":
+  - /url: /trade/AGLD_USDT
+- link "SCR/USDT -1.86% 0.317":
+  - /url: /trade/SCR_USDT
+- link "NEAR/USDT +0.65% 2.785":
+  - /url: /trade/NEAR_USDT
+- link "AUDIO/USDT -2.78% 0.0665":
+  - /url: /trade/AUDIO_USDT
+- link "WLD/USDT -2.65% 1.174":
+  - /url: /trade/WLD_USDT
+- link "ETHFI/USDT -2.22% 1.145":
+  - /url: /trade/ETHFI_USDT
+- link "ETH/USDT +3.65% 3,736.84":
+  - /url: /trade/ETH_USDT
+- link "SOL/USDT -0.64% 188.80":
+  - /url: /trade/SOL_USDT
+- link "XRP/USDT -0.25% 3.2371":
+  - /url: /trade/XRP_USDT
+- link "PEPE/USDT -0.85% 0.00001277":
+  - /url: /trade/PEPE_USDT
+- link "DOGE/USDT -1.66% 0.23979":
+  - /url: /trade/DOGE_USDT
+- link "BTC/USDT +0.65% 119,052.29":
+  - /url: /trade/BTC_USDT
+- link "KERNEL/USDT +10.60% 0.1930":
+  - /url: /trade/KERNEL_USDT
+- link "BNB/USDT +0.95% 781.31":
+  - /url: /trade/BNB_USDT
+- link "BONK/USDT +3.68% 0.00003382":
+  - /url: /trade/BONK_USDT
+- link "ADA/USDT +0.38% 0.8206":
+  - /url: /trade/ADA_USDT
+- link "NEWT/USDT +18.38% 0.5089":
+  - /url: /trade/NEWT_USDT
+- link "SPK/USDT -32.59% 0.112985":
+  - /url: /trade/SPK_USDT
+- link "SUI/USDT +3.14% 3.8377":
+  - /url: /trade/SUI_USDT
+- link "LTC/USDT -0.11% 113.29":
+  - /url: /trade/LTC_USDT
+- link "LINK/USDT +1.93% 18.47":
+  - /url: /trade/LINK_USDT
+- link "PENGU/USDT -2.87% 0.039730":
+  - /url: /trade/PENGU_USDT
+- link "AXL/USDT +13.99% 0.4195":
+  - /url: /trade/AXL_USDT
+- link "STO/FDUSD +10.32% 0.1122":
+  - /url: /trade/STO_FDUSD
+- link "AGLD/USDT -2.35% 0.788":
+  - /url: /trade/AGLD_USDT
+- link "SCR/USDT -1.86% 0.317":
+  - /url: /trade/SCR_USDT
+- link "NEAR/USDT +0.65% 2.785":
+  - /url: /trade/NEAR_USDT
+- link "AUDIO/USDT -2.78% 0.0665":
+  - /url: /trade/AUDIO_USDT
+- link "WLD/USDT -2.65% 1.174":
+  - /url: /trade/WLD_USDT
+- link "ETHFI/USDT -2.22% 1.145":
+  - /url: /trade/ETHFI_USDT
+- text: Announcements Cookie Preference Online Support
+- region "Cookie banner":
+  - dialog "Privacy":
+    - text: We use "Strictly Necessary" cookies to keep our site reliable and secure. We’d like to set additional cookies to understand site usage, make site improvements, to remember your settings and to assist in our marketing efforts.
+    - button "Accept Cookies & Continue"
+    - button "Reject Additional Cookies"
+    - button "Manage Cookies, Opens the preference center dialog": Manage Cookies
+```

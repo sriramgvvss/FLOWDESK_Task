@@ -1,0 +1,17 @@
+{
+    "name": "flowdesk-task-test",
+    "scripts": {
+        "test": "playwright test",
+        "report": "npx allure generate ./allure-results --clean && npx allure open"
+    },
+    "devDependencies": {
+        "@playwright/test": "^1.54.1",
+        "@types/axios": "^0.9.36",
+        "@types/ws": "^8.18.1",
+        "axios": "^1.11.0",
+        "typescript": "^5.3.3"
+    },
+    "dependencies": {
+        "ws": "^8.13.0"
+    }
+}
